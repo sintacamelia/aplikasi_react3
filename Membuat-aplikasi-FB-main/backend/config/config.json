@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "sinta123",
+    "database": "todo_app",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "sinta123",
+    "database": "todo_app",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "sinta123",
+    "database": "todo_app",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
